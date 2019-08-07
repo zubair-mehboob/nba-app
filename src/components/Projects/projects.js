@@ -20,8 +20,9 @@ const Projects = () => {
             <div class="card-body text-center">
               <h5 class="card-title">Would you Rather App</h5>
               <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                I made this project using React, Redux and reactstrap. In this
+                app you can switch between three users. Each user can make
+                quize, participate in quize and can see their quize result.
               </p>
               <a
                 href="https://github.com/zubair-mehboob/Would-You-Rather-App"
@@ -43,8 +44,12 @@ const Projects = () => {
             <div class="card-body text-center">
               <h5 class="card-title">My Reads App</h5>
               <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                In this project there are mainly three book shelf i.e Read, Want
+                to Read and Currently Reading, user can change the book shelf by
+                using a drop down menu on a book cover. There is a search
+                component in which user can search books and also they can
+                directly add books from search component in any shelf. I made
+                this project by using react, html and css.
               </p>
               <a
                 href="https://github.com/zubair-mehboob/myReads"
@@ -66,8 +71,10 @@ const Projects = () => {
             <div class="card-body text-center">
               <h5 class="card-title">Vidly API</h5>
               <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                I am currently working on this project, this is a movie app. So
+                far I have made four end points in this project in which user
+                can perform CRUD operation by using ExpressJS and Mongoose.
+                These four end points are: users, movies, rentals and genre.
               </p>
               <a
                 href="https://github.com/zubair-mehboob/vidly-restfull-api"
@@ -89,8 +96,11 @@ const Projects = () => {
             <div class="card-body text-center">
               <h5 class="card-title">Flash Card App</h5>
               <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                In this project I have learnt how to make apps on both iOS and
+                Android platform by using React Native. In this project I learn
+                how to navigate to different screens, how to use stack navigator
+                and tab navigator. In addition to that I learnt how to use
+                Asyncstorage of a phone.
               </p>
               <a
                 href="https://github.com/zubair-mehboob/Flash-Card-App"
@@ -112,8 +122,9 @@ const Projects = () => {
             <div class="card-body text-center">
               <h5 class="card-title">Leads Group Coaching System Website</h5>
               <p class="card-text">
-                Some quick example text to build on the card title and make up
-                the bulk of the card's content.
+                This is static single page website, in this project I learnt
+                various things about Bootstrap 4 like carousel, cards,
+                jumbotrons etc.
               </p>
               <a
                 href="https://github.com/zubair-mehboob/LeadsGroupCoaching"
