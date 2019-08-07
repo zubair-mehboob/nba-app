@@ -10,7 +10,7 @@ const Projects = () => {
       <h1 className="text-center mb-4 text-white">My Projects</h1>
       <div className="row">
         <div className="col- col-md-6 col-lg-4 mb-4">
-          <div class="card">
+          <div class="card" style={{ height: "650px" }}>
             <img
               class="card-img-top"
               src={imgReact}
@@ -34,7 +34,7 @@ const Projects = () => {
           </div>
         </div>
         <div className="col- col-md-6 col-lg-4 mb-4">
-          <div class="card">
+          <div class="card" style={{ height: "650px" }}>
             <img
               class="card-img-top"
               src={imgReact}
@@ -61,7 +61,7 @@ const Projects = () => {
           </div>
         </div>
         <div className="col- col-md-6 col-lg-4 mb-4">
-          <div class="card">
+          <div class="card" style={{ height: "650px" }}>
             <img
               class="card-img-top"
               src={imgNode}
@@ -86,7 +86,7 @@ const Projects = () => {
           </div>
         </div>
         <div className="col- col-md-6 col-lg-4 mb-4">
-          <div class="card">
+          <div class="card" style={{ height: "650px" }}>
             <img
               class="card-img-top"
               src={imgNative}
@@ -112,7 +112,7 @@ const Projects = () => {
           </div>
         </div>
         <div className="col- col-md-6 col-lg-4 mb-4">
-          <div class="card">
+          <div class="card" style={{ height: "650px" }}>
             <img
               class="card-img-top"
               src={imgb}
