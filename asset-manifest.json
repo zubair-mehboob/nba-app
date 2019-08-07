@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.4f3d5e3f.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.09177cfb.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.09177cfb.chunk.js.map",
+    "runtime~main.js": "/my-portfolio/static/js/runtime~main.674e5ed7.js",
+    "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.674e5ed7.js.map",
+    "static/js/2.2011dc89.chunk.js": "/my-portfolio/static/js/2.2011dc89.chunk.js",
+    "static/js/2.2011dc89.chunk.js.map": "/my-portfolio/static/js/2.2011dc89.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.043688502a82bad0c6c526e5a3c82809.js": "/my-portfolio/precache-manifest.043688502a82bad0c6c526e5a3c82809.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.4f3d5e3f.chunk.css.map": "/my-portfolio/static/css/main.4f3d5e3f.chunk.css.map",
+    "static/media/b.jpg": "/my-portfolio/static/media/b.b1252e5e.jpg",
+    "static/media/header.css": "/my-portfolio/static/media/header1.70dd6646.jpg",
+    "static/media/node.png": "/my-portfolio/static/media/node.f4baf43a.png",
+    "static/media/react-native.png": "/my-portfolio/static/media/react-native.3df3e730.png",
+    "static/media/react.jpeg": "/my-portfolio/static/media/react.7fc3a2c2.jpeg",
+    "static/media/zubair.jpg": "/my-portfolio/static/media/zubair.16fe7067.jpg"
+  }
+}
