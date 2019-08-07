@@ -1,0 +1,106 @@
+.parallax {
+  /* The image used */
+  background-image: url("../header1.jpg");
+
+  /* Set a specific height */
+  height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.anim {
+  position: relative;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 6s; /* Safari 4.0 - 8.0 */
+  animation-name: example;
+  animation-duration: 6s;
+
+  animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes example {
+  0% {
+    letter-spacing: 30px;
+  }
+  25% {
+    letter-spacing: 25px;
+  }
+  50% {
+    letter-spacing: 15px;
+  }
+  75% {
+    letter-spacing: 5px;
+  }
+  100% {
+    letter-spacing: 0px;
+  }
+}
+
+/* Standard syntax */
+@keyframes example {
+  0% {
+    letter-spacing: 30px;
+  }
+  25% {
+    letter-spacing: 25px;
+  }
+  50% {
+    letter-spacing: 15px;
+  }
+  75% {
+    letter-spacing: 5px;
+  }
+  100% {
+    letter-spacing: 0px;
+  }
+}
+
+.anim1 {
+  position: relative;
+  -webkit-animation-name: example1; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 6s; /* Safari 4.0 - 8.0 */
+  animation-name: example1;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes example1 {
+  0% {
+    word-spacing: 60px;
+  }
+  25% {
+    word-spacing: 45px;
+  }
+  50% {
+    word-spacing: 30px;
+  }
+  75% {
+    word-spacing: 15px;
+  }
+  100% {
+    word-spacing: 0px;
+  }
+}
+
+/* Standard syntax */
+@keyframes example1 {
+  0% {
+    word-spacing: 60px;
+  }
+  25% {
+    word-spacing: 45px;
+  }
+  50% {
+    word-spacing: 30px;
+  }
+  75% {
+    word-spacing: 15px;
+  }
+  100% {
+    word-spacing: 0px;
+  }
+}

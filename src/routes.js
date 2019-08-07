@@ -1,15 +1,15 @@
 import React, { Component } from "react";
-import { Route, Switch } from "react-router-dom";
-import Home from "./component/Home/home";
-import Layout from "./hoc/Layout/layout";
+import { Route } from "react-router-dom";
+import Home from "./components/Home/home";
+import About from "./components/About/about";
+import Layout from "./components/hoc/Layout";
 class Routes extends Component {
   state = {};
   render() {
     return (
       <Layout>
-        <Switch>
-          <Route path="/" exact component={Home} />
-        </Switch>
+        <Route path="/" exact component={Home} />
+        <Route path="/about" component={About} />
       </Layout>
     );
   }
