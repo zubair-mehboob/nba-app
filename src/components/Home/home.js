@@ -33,7 +33,7 @@ const Home = () => {
               <Link
                 to="/about"
                 style={{ textDecoration: "none" }}
-                className="btn btn-outline-danger"
+                className="btn btn-outline-primary"
               >
                 Read More
               </Link>

@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <a className="navbar-brand ">Zubair</a>
       <button
         class="navbar-toggler"
@@ -17,7 +17,7 @@ const Navbar = () => {
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
-          <li class="nav-item active">
+          <li class="nav-item ">
             <Link to="/" className="nav-link">
               Home
             </Link>
@@ -28,14 +28,14 @@ const Navbar = () => {
             </Link>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <Link to="/projects" className="nav-link">
               Projects
-            </a>
+            </Link>
           </li>
           <li class="nav-item">
-            <a className="nav-link" href="#">
+            <Link to="/resume" className="nav-link">
               Resume
-            </a>
+            </Link>
           </li>
         </ul>
       </div>

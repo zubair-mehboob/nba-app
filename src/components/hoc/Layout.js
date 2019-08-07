@@ -6,13 +6,13 @@ class Layout extends Component {
   state = {};
   render() {
     return (
-      <div className="d-flex flex-column ">
+      <div className="d-flex flex-column bg-dark text-secondary">
         <div>
           <Navbar />
         </div>
 
         {this.props.children}
-        <div>
+        <div className="">
           <Footer />
         </div>
       </div>

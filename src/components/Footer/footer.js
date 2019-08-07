@@ -8,7 +8,7 @@ const Footer = () => {
       className="jumbotron bg-dark d-flex justify-content-center"
       style={{ marginBottom: 0 }}
     >
-      <div className="btn-group">
+      <div className="btn-group ">
         <a
           href="https://github.com/zubair-mehboob"
           style={{ textDecoration: "none" }}
@@ -26,6 +26,10 @@ const Footer = () => {
           style={{ textDecoration: "none" }}
         >
           <i className="fa fa-linkedin-square " style={{ fontSize: "40px" }} />
+        </a>
+
+        <a href="https://twitter.com/alizubair686">
+          <i class="fa fa-twitter-square " style={{ fontSize: "40px" }} />
         </a>
       </div>
     </div>
