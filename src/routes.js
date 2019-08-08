@@ -11,6 +11,7 @@ class Routes extends Component {
     return (
       <Layout>
         <Route path="/" exact component={Home} />
+        <Route path="/my-portfolio/" exact component={Home} />
         <Route path="/about" component={About} />
         <Route path="/projects" component={Projects} />
         <Route path="/resume" component={Resume} />
