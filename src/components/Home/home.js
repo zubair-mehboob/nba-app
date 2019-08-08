@@ -26,8 +26,8 @@ const Home = () => {
               <h3> Welcome</h3>
               <p style={{ textAlign: "center" }}>
                 Hi, my name is Zubair Mehboob, I'm a student of Mohammad Ali
-                Jinnah University, I'm doing MSCS Data Sciences, I'm a web and
-                mobile app developer.
+                Jinnah University, I'm doing MSCS Data Sciences, I'm a
+                professional web and mobile app developer.
               </p>
 
               <Link
