@@ -106,24 +106,18 @@ const Projects = () => {
         <div className="col- col-md-6 col-lg-4 mb-4">
           <div class="card" style={{ height: "650px" }}>
             <div
-              id="carouselExampleIndicators"
+              id="carouselExampleIndicator"
               class="carousel slide"
               data-ride="carousel"
             >
               <ol class="carousel-indicators">
                 <li
-                  data-target="#carouselExampleIndicators"
+                  data-target="#carouselExampleIndicator"
                   data-slide-to="0"
                   class="active"
                 />
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="1"
-                />
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="2"
-                />
+                <li data-target="#carouselExampleIndicator" data-slide-to="1" />
+                <li data-target="#carouselExampleIndicator" data-slide-to="2" />
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -153,7 +147,7 @@ const Projects = () => {
               </div>
               <a
                 class="carousel-control-prev"
-                href="#carouselExampleIndicators"
+                href="#carouselExampleIndicator"
                 role="button"
                 data-slide="prev"
               >
@@ -162,7 +156,7 @@ const Projects = () => {
               </a>
               <a
                 class="carousel-control-next"
-                href="#carouselExampleIndicators"
+                href="#carouselExampleIndicator"
                 role="button"
                 data-slide="next"
               >
@@ -192,24 +186,18 @@ const Projects = () => {
         <div className="col- col-md-6 col-lg-4 mb-4">
           <div class="card" style={{ height: "650px" }}>
             <div
-              id="carouselExampleIndicators"
+              id="carouselExampleIndicatos"
               class="carousel slide"
               data-ride="carousel"
             >
               <ol class="carousel-indicators">
                 <li
-                  data-target="#carouselExampleIndicators"
+                  data-target="#carouselExampleIndicatos"
                   data-slide-to="0"
                   class="active"
                 />
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="1"
-                />
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="2"
-                />
+                <li data-target="#carouselExampleIndicatos" data-slide-to="1" />
+                <li data-target="#carouselExampleIndicatos" data-slide-to="2" />
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -239,7 +227,7 @@ const Projects = () => {
               </div>
               <a
                 class="carousel-control-prev"
-                href="#carouselExampleIndicators"
+                href="#carouselExampleIndicatos"
                 role="button"
                 data-slide="prev"
               >
@@ -248,7 +236,7 @@ const Projects = () => {
               </a>
               <a
                 class="carousel-control-next"
-                href="#carouselExampleIndicators"
+                href="#carouselExampleIndicatos"
                 role="button"
                 data-slide="next"
               >
@@ -276,24 +264,18 @@ const Projects = () => {
         <div className="col- col-md-6 col-lg-4 mb-4">
           <div class="card" style={{ height: "650px" }}>
             <div
-              id="carouselExampleIndicators"
+              id="carouselExampleIndicatrs"
               class="carousel slide"
               data-ride="carousel"
             >
               <ol class="carousel-indicators">
                 <li
-                  data-target="#carouselExampleIndicators"
+                  data-target="#carouselExampleIndicatrs"
                   data-slide-to="0"
                   class="active"
                 />
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="1"
-                />
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="2"
-                />
+                <li data-target="#carouselExampleIndicatrs" data-slide-to="1" />
+                <li data-target="#carouselExampleIndicatrs" data-slide-to="2" />
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -323,7 +305,7 @@ const Projects = () => {
               </div>
               <a
                 class="carousel-control-prev"
-                href="#carouselExampleIndicators"
+                href="#carouselExampleIndicatrs"
                 role="button"
                 data-slide="prev"
               >
@@ -332,7 +314,7 @@ const Projects = () => {
               </a>
               <a
                 class="carousel-control-next"
-                href="#carouselExampleIndicators"
+                href="#carouselExampleIndicatrs"
                 role="button"
                 data-slide="next"
               >
@@ -361,24 +343,18 @@ const Projects = () => {
         <div className="col- col-md-6 col-lg-4 mb-4">
           <div class="card" style={{ height: "650px" }}>
             <div
-              id="carouselExampleIndicators"
+              id="carouselExampleIndicaors"
               class="carousel slide"
               data-ride="carousel"
             >
               <ol class="carousel-indicators">
                 <li
-                  data-target="#carouselExampleIndicators"
+                  data-target="#carouselExampleIndicaors"
                   data-slide-to="0"
                   class="active"
                 />
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="1"
-                />
-                <li
-                  data-target="#carouselExampleIndicators"
-                  data-slide-to="2"
-                />
+                <li data-target="#carouselExampleIndicaors" data-slide-to="1" />
+                <li data-target="#carouselExampleIndicaors" data-slide-to="2" />
               </ol>
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -408,7 +384,7 @@ const Projects = () => {
               </div>
               <a
                 class="carousel-control-prev"
-                href="#carouselExampleIndicators"
+                href="#carouselExampleIndicaors"
                 role="button"
                 data-slide="prev"
               >
@@ -417,7 +393,7 @@ const Projects = () => {
               </a>
               <a
                 class="carousel-control-next"
-                href="#carouselExampleIndicators"
+                href="#carouselExampleIndicaors"
                 role="button"
                 data-slide="next"
               >
